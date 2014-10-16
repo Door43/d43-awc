@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[awc:home|Door43 (awc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-awc|d43-awc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-awc/archive/master.zip|d43-awc.zip]]
+
+**Recent Changes**
+{{changes>ns = awc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/awc|Ethnologue data]]
+
